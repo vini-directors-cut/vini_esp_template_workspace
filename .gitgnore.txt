@@ -1,5 +1,0 @@
-**/.cproject
-**/.project
-**/LICENSE
-**/README.md
-**/build/
